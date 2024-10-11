@@ -25,3 +25,4 @@ filmes.elenco[0] = 'xuxa1' // só para fixar
 console.log(filmes.elenco);
 
 console.log(filmes);
+   
